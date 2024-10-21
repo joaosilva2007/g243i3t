@@ -50,7 +50,7 @@ footer {
 }
 
 .graficos-container {
-  color: var(--tertiary);
+ color: black;
  margin: 5rem;
 }
 .graficos-container_texto {
